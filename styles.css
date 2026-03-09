@@ -268,7 +268,7 @@ p {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    padding-top: 80px;
+    padding-top: 100px;
 }
 
 .hero-bg {
@@ -684,4 +684,5 @@ footer p {
         flex-direction: column;
         text-align: center;
     }
+
 }
