@@ -1,0 +1,11 @@
+{
+  "min_version": 1,
+  "paywall_variant": "A",
+  "features": {
+    "BACKUP_NUVEM": "PRO",
+    "REFERENCIAS_TECNICAS": "PRO",
+    "CONFIG_LOGO_PDF": "PRO",
+    "CONFIG_ASSINATURA_PDF": "PRO",
+    "AUTENTICACAO_BIOMETRICA": "PRO"
+  }
+}
