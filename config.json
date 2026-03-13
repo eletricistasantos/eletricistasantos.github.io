@@ -1,10 +1,10 @@
 {
   "features": {
-    "BACKUP_NUVEM": "PRO",
-    "REFERENCIAS_TECNICAS": "PRO",
-    "CONFIG_LOGO_PDF": "PRO",
-    "CONFIG_ASSINATURA_PDF": "PRO",
-    "AUTENTICACAO_BIOMETRICA": "PRO"
+    "BACKUP_NUVEM": "FREE",
+    "REFERENCIAS_TECNICAS": "FREE",
+    "CONFIG_LOGO_PDF": "FREE",
+    "CONFIG_ASSINATURA_PDF": "FREE",
+    "AUTENTICACAO_BIOMETRICA": "FREE"
   },
   "referencias_extras": [
     {
