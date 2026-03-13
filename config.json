@@ -1,11 +1,16 @@
 {
-  "min_version": 1,
-  "paywall_variant": "A",
   "features": {
-    "BACKUP_NUVEM": "FREE",
-    "REFERENCIAS_TECNICAS": "FREE",
-    "CONFIG_LOGO_PDF": "FREE",
-    "CONFIG_ASSINATURA_PDF": "FREE",
-    "AUTENTICACAO_BIOMETRICA": "FREE"
-  }
+    "BACKUP_NUVEM": "PRO",
+    "REFERENCIAS_TECNICAS": "PRO",
+    "CONFIG_LOGO_PDF": "PRO",
+    "CONFIG_ASSINATURA_PDF": "PRO",
+    "AUTENTICACAO_BIOMETRICA": "PRO"
+  },
+  "referencias_extras": [
+    {
+      "titulo": "Interruptor Paralelo",
+      "url": "https://eletricistasantos.github.io/pdfs/interrup_paralelo.pdf",
+      "descricao": "interruptor em paralelo"
+    }
+  ]
 }
