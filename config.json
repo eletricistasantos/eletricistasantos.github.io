@@ -6,6 +6,12 @@
     "CONFIG_ASSINATURA_PDF": "FREE",
     "AUTENTICACAO_BIOMETRICA": "FREE"
   },
+"usuarios_pro": [
+    "parceiro@gmail.com",
+    "flavio@empresa.com.br",
+    "cliente-brinde@hotmail.com"
+  ],
+  
   "referencias_extras": [
     {
       "titulo": "Interruptor Paralelo",
