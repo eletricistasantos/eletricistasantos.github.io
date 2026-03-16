@@ -6,21 +6,22 @@
     "CONFIG_ASSINATURA_PDF": "PRO",
     "AUTENTICACAO_BIOMETRICA": "PRO"
   },
-"usuarios_pro": [
+  "usuarios_pro": [
     "fdshnet@gmail.com",
     "flavio@empresa.com.br",
     "cliente-brinde@hotmail.com"
   ],
-  
   "referencias_extras": [
     {
       "titulo": "Interruptor Paralelo",
       "url": "https://eletricistasantos.github.io/pdfs/interrup_paralelo.pdf",
       "descricao": "interruptor em paralelo"
-
+    },
+    {
       "titulo": "teste",
       "url": "https://eletricistasantos.github.io/pdfs/interrup_paralelo.pdf",
       "descricao": "Interruptor de teste"
     }
   ]
 }
+
