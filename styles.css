@@ -344,6 +344,7 @@ p {
     transition: var(--transition);
     position: relative;
     overflow: hidden;
+    justify-content: center;
 }
 
 .service-card::before {
